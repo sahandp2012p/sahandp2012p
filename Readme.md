@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahandp2012p&label=Profile%20views&color=0e75b6&style=flat" alt="sahandp2012p" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahandp2012p" alt="sahandp2012p" /></a> </p>
-
 - 🔭 I’m currently working on [youtube_comments](https://github.com/sahandp2012p/youtube_comments)
 
 - 🌱 I’m currently learning **Fastapi, Tensorflow**
