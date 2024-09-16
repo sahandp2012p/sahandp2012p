@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fastapi, Tensorflow**
 
-- 👨‍💻 All of my projects are available at [github.com/sahandp2012p](github.com/sahandp2012p)
+- 👨‍💻 All of my projects are available [on my github profile](github.com/sahandp2012p)
 
 - ⚡ Fun fact **I am the laziest coder**
 
